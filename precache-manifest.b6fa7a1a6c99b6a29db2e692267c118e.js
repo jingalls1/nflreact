@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/nflreact/static/js/runtime~main.029452c7.js"
   },
   {
-    "revision": "9ae69a292d497bc4e1df",
+    "revision": "75d78ba787d2ce1cb36b",
     "url": "/nflreact/static/js/main.f9d2d0ca.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/nflreact/static/js/2.a81b9cc6.chunk.js"
   },
   {
-    "revision": "9ae69a292d497bc4e1df",
-    "url": "/nflreact/static/css/main.0277d186.chunk.css"
+    "revision": "75d78ba787d2ce1cb36b",
+    "url": "/nflreact/static/css/main.2d2c80b0.chunk.css"
   },
   {
-    "revision": "f0b96fe6f66b104e49bf323458e9d68a",
+    "revision": "378353c572e1a0e0950184314d88875d",
     "url": "/nflreact/index.html"
   }
 ];

@@ -1,5 +1,5 @@
 {
-  "main.css": "/nflreact/static/css/main.0277d186.chunk.css",
+  "main.css": "/nflreact/static/css/main.2d2c80b0.chunk.css",
   "main.js": "/nflreact/static/js/main.f9d2d0ca.chunk.js",
   "main.js.map": "/nflreact/static/js/main.f9d2d0ca.chunk.js.map",
   "runtime~main.js": "/nflreact/static/js/runtime~main.029452c7.js",
@@ -7,7 +7,7 @@
   "static/js/2.a81b9cc6.chunk.js": "/nflreact/static/js/2.a81b9cc6.chunk.js",
   "static/js/2.a81b9cc6.chunk.js.map": "/nflreact/static/js/2.a81b9cc6.chunk.js.map",
   "index.html": "/nflreact/index.html",
-  "precache-manifest.530298c5c702d2df1813a2a41750e01f.js": "/nflreact/precache-manifest.530298c5c702d2df1813a2a41750e01f.js",
+  "precache-manifest.b6fa7a1a6c99b6a29db2e692267c118e.js": "/nflreact/precache-manifest.b6fa7a1a6c99b6a29db2e692267c118e.js",
   "service-worker.js": "/nflreact/service-worker.js",
-  "static/css/main.0277d186.chunk.css.map": "/nflreact/static/css/main.0277d186.chunk.css.map"
+  "static/css/main.2d2c80b0.chunk.css.map": "/nflreact/static/css/main.2d2c80b0.chunk.css.map"
 }

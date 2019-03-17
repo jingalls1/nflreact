@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nflreact/precache-manifest.530298c5c702d2df1813a2a41750e01f.js"
+  "/nflreact/precache-manifest.b6fa7a1a6c99b6a29db2e692267c118e.js"
 );
 
 workbox.clientsClaim();
